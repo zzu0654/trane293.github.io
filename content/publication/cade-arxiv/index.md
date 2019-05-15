@@ -31,7 +31,7 @@ tags:
 - medical image analysis
 - computer vision
 
-featured: true
+featured: false
 
 links:
 - name: arXiv
