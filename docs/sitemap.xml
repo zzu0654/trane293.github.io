@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://anmolsharma.co/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/anmol-sharma/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/mmgan-vin/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/deep-learning/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/generative-adversarial-networks/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/medical-imaging/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/mri/</loc>
+    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication_types/3/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/ghassan-hamarneh/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication/mmgan_arxiv/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication_types/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/computer-vision/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/medical-image-analysis/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/nlp-structural-modelling/</loc>
+    <lastmod>2018-11-20T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/bioinformatics/</loc>
+    <lastmod>2018-11-20T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/natural-language-processing/</loc>
+    <lastmod>2018-11-20T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/shape-reg/</loc>
+    <lastmod>2018-10-31T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/machine-learning/</loc>
+    <lastmod>2018-10-31T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/shape-registration/</loc>
+    <lastmod>2018-10-31T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/live-wire/</loc>
+    <lastmod>2018-10-10T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/linear-algebra/</loc>
+    <lastmod>2018-10-10T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/optimization/</loc>
+    <lastmod>2018-10-10T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/text-mining/</loc>
+    <lastmod>2018-09-20T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/canu/</loc>
+    <lastmod>2018-08-20T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/long-read-assembly/</loc>
+    <lastmod>2018-08-20T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/ngs-sequencing/</loc>
+    <lastmod>2018-08-20T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/sequencing/</loc>
+    <lastmod>2018-08-20T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/missing_pulse_sequences/</loc>
+    <lastmod>2018-07-12T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication/cade-arxiv/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/b.-uma-shankar/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/subhasis-banerjee/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/sushmita-mitra/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/convolutional-neural-networks/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/aicha-bentaieb/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/bogdan-georgescu/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/dorin-comaniciu/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/puneet-sharma/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/s.-kevin-zhou/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/saeid-asgari-taghanaki/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/sasa-grbic/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication/sat-arxiv/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/yefeng-zheng/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/zhoubing-xu/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/project/animation-rl-project/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/project/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/computer-animation/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/physics-based-locomotion/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/reinforcement-learning/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/simbicon-genbicon/</loc>
+    <lastmod>2018-03-20T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/rl-tut/</loc>
+    <lastmod>2018-03-14T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/talk/rl-ct/</loc>
+    <lastmod>2018-03-12T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/project/nlp-project/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/artificial-neural-networks/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/machine-translation/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/svm/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/project/nlp-mini-project/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/project/ml-project/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/blstm/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/convolutional-neural-network/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/lstm/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication_types/1/</loc>
+    <lastmod>2015-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/both-authors-contributed-equally-to-this-work/</loc>
+    <lastmod>2015-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/harman-preet-kaur/</loc>
+    <lastmod>2015-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication/signature-conference/</loc>
+    <lastmod>2015-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/artifical-neural-networks/</loc>
+    <lastmod>2015-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/document-analysis/</loc>
+    <lastmod>2015-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/project/mammogram-project/</loc>
+    <lastmod>2015-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/publication/image-conference/</loc>
+    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/jagroop-singh/</loc>
+    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/image-processing/</loc>
+    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/tags/spatial-filtering/</loc>
+    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anmolsharma.co/post/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jagroop Singh on </title>
+    <link>http://anmolsharma.co/authors/jagroop-singh/</link>
+    <description>Recent content in Jagroop Singh on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Thu, 19 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://anmolsharma.co/authors/jagroop-singh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Denoising using Spatial Domain Filters: A Quantitative Study</title>
+      <link>http://anmolsharma.co/publication/image-conference/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/publication/image-conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

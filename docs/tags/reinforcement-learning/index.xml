@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcement learning on </title>
+    <link>http://anmolsharma.co/tags/reinforcement-learning/</link>
+    <description>Recent content in reinforcement learning on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://anmolsharma.co/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of Deep Reinforcement Learning Algorithms for Learning Control Policies for Physics-based Locomotion Tasks</title>
+      <link>http://anmolsharma.co/project/animation-rl-project/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/project/animation-rl-project/</guid>
+      <description>Comparison of various state-of-art reinforcement learning algorithms</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] SIMBICON and GENBICON: Physics Based Control Models for Locomotion</title>
+      <link>http://anmolsharma.co/talk/simbicon-genbicon/</link>
+      <pubDate>Tue, 20 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/talk/simbicon-genbicon/</guid>
+      <description>I present the two seminal models of physics-based walking, called SIMBICON and GENBICON. The course instructor KangKang Yin is the inventor of SIMBICON.</description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Tutorial on Reinforcement Learning</title>
+      <link>http://anmolsharma.co/talk/rl-tut/</link>
+      <pubDate>Wed, 14 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/talk/rl-tut/</guid>
+      <description>I present a mathematical, in-depth tutorial about reinforcement learning to the lab members. This was presented to facilitate members to take up RL methods and apply them to their respective problem areas, as well as for myself to understand RL in an in-depth way.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans</title>
+      <link>http://anmolsharma.co/talk/rl-ct/</link>
+      <pubDate>Mon, 12 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/talk/rl-ct/</guid>
+      <description>In this talk I present the first known application of reinforcement learning agents for landmark detection in CT Scans in medical imaging.</description>
+    </item>
+    
+  </channel>
+</rss>

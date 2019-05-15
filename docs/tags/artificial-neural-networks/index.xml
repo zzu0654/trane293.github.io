@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial neural networks on </title>
+    <link>http://anmolsharma.co/tags/artificial-neural-networks/</link>
+    <description>Recent content in artificial neural networks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://anmolsharma.co/tags/artificial-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating Machine Translation Systems using Weighted Vote of Different Scoring Metrics</title>
+      <link>http://anmolsharma.co/project/nlp-project/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/project/nlp-project/</guid>
+      <description>We propose a novel multi-metric voting scheme for evaluating machine translation systems.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Characterization of Breast Masses using NSGA-II based Feature Selection</title>
+      <link>http://anmolsharma.co/project/mammogram-project/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/project/mammogram-project/</guid>
+      <description>Propose a new feature extraction and selection method using NSGA-II for classifying masses as benign or malignant.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghassan Hamarneh on </title>
+    <link>http://anmolsharma.co/authors/ghassan-hamarneh/</link>
+    <description>Recent content in Ghassan Hamarneh on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://anmolsharma.co/authors/ghassan-hamarneh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network</title>
+      <link>http://anmolsharma.co/publication/mmgan_arxiv/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/publication/mmgan_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Select, Attend, and Transfer: Light, Learnable Skip Connections</title>
+      <link>http://anmolsharma.co/publication/sat-arxiv/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/publication/sat-arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
