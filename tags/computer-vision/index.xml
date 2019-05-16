@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>[Paper Presentation] Deep Anomaly Detection with Outlier Exposure</title>
+      <link>http://anmolsharma.co/talk/outlier-iclr2019/</link>
+      <pubDate>Thu, 25 Apr 2019 15:30:00 +0000</pubDate>
+      
+      <guid>http://anmolsharma.co/talk/outlier-iclr2019/</guid>
+      <description>Presented an interesting paper from ICLR 2019 that performs out-of-distribution sample detection using a simple framework.</description>
+    </item>
+    
+    <item>
       <title>[Paper Presentation] Shape Registration in Implicit Spaces Using Information Theory and Free Form Deformations</title>
       <link>http://anmolsharma.co/talk/shape-reg/</link>
       <pubDate>Wed, 31 Oct 2018 15:00:00 +0000</pubDate>
